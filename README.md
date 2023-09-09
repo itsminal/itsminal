@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minal</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🔭 I’m currently working on [Full Stack Development](https://github.com/itsminal/Full-Stack-Development)
+- 🔭 I’m currently working on [Web Development](https://github.com/itsminal/Web-Development.git)
 
 - 🌱 I’m currently learning **Enterprise Java, Data Structures & Algorithms and Full Stack Development**
 
